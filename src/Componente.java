@@ -1,4 +1,4 @@
 public interface Componente {
-    public void play();
-    public String getName();
+     void play();
+     String getName();
 }
